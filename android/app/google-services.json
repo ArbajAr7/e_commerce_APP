@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681148431132",
+    "firebase_url": "https://damistyle-ar7.firebaseio.com",
+    "project_id": "damistyle-ar7",
+    "storage_bucket": "damistyle-ar7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681148431132:android:eb6e4a0f60e8319c3cd8d9",
+        "android_client_info": {
+          "package_name": "com.example.DamiStyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681148431132-osi20k29ihnolst1nbi9ucn7pe1bdssi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.DamiStyle",
+            "certificate_hash": "93b04837686e6117a2117126fde0b514f824656f"
+          }
+        },
+        {
+          "client_id": "681148431132-7rjtok0j4v9hnde9r65qn8nv236olbrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVemEV-XHcGzPmcfmLE0Uq1HB4kxdl95w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681148431132-7rjtok0j4v9hnde9r65qn8nv236olbrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
